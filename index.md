@@ -1,5 +1,5 @@
 # Frankline Ononiwu
-*Data Scientist 
+*Data Scientist* 
 
 # Education
 * Advanced Diploma (Data Science)
