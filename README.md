@@ -1,4 +1,4 @@
-# Franklin Ononiwu
+# Frankline Ononiwu
 *Data Scientist*
 
 # Education
