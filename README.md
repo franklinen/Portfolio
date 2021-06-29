@@ -11,17 +11,17 @@
 
 Photo by <a href="https://unsplash.com/@bthjnr?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Beth Jnr</a> on <a href="https://unsplash.com/s/photos/vacation-rental-recommender-system?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
-* **Python libraries used:** Streamlit, Huggingface, TensorFlow
-* **Input:** Tweets, News
-* **Output:** Sentiment of Cryptocurrency
+This project aims to build a recommender system for vacation rentals in Canada using customer reviews
+* **Python libraries used:** Streamlit, NLTK, TensorFlow, Pandas
+* **Input:** Vacation reviews from 
+* **Output:** Recommended vacation rentals
 
-# [Project 2: Bank Sentiment and Topic Modelling](https://github.com/franklinen/Bank-Sentiment-and-Topic-Modelling)
+# [Project 2: Bank Sentiment and Topic Modelling](https://github.com/franklinen/Bank-Sentiment-and-Topic-Modelling)(*In progress*)
 ![alt text](twittay.jpg)
 
 Photo by <a href="https://unsplash.com/@lukechesser?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Luke Chesser</a> on <a href="https://unsplash.com/s/photos/twitter-sentiment-analysis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
-* **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
+This project makes use of ***sentiment analysis*** of bank tweets with ***topic modelling*** of the tweet topics to monitor customer sentiment 
+* **Python libraries used:** NLTK, BERT, Psycopg2, Tweepy, Flask 
+* **Input:** Tweets
+* **Output:** Sentiments, Topics
