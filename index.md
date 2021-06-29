@@ -1,9 +1,10 @@
-# John Doe
-*An Aspiring Data Scientist | 2X Kaggle Grandmaster*
+# Frankline Ononiwu
+*Data Scientist 
 
 # Education
-* Masters of Science (Data Science), *YouTube University*, 2016-2018
-* Bachelors of Science (Data Science), *YouTube University*, 2012-2016
+* Advanced Diploma (Data Science)
+* Masters of Science (Drug Design), *Edinburgh Napier University*, 2016-2018
+* Bachelors of Science (Biochemistry), *YouTube University*, 2012-2016
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
 
