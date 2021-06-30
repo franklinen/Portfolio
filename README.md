@@ -3,8 +3,8 @@
 
 # Education
 * Advanced Diploma (Data Science)
-* Masters of Science (Data Science) 
-* Bachelors of Science (Data Science)
+* Masters of Science (Drug Design) 
+* Bachelors of Science (Biochemistry)
 
 # [Project 1: Vacation Rentals Recommender system](https://github.com/franklinen/Vacation-Rentals-Recommender-System)
 ![alt text](vacay.jpg)
